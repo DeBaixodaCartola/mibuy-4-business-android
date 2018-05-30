@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "477812496466",
+    "firebase_url": "https://projetocartolada.firebaseio.com",
+    "project_id": "projetocartolada",
+    "storage_bucket": "projetocartolada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477812496466:android:c206551d2bdcd536",
+        "android_client_info": {
+          "package_name": "com.example.felipe.mibuy4business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477812496466-7tone4ntmkhdpr276qpon3hb5k7bkt3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9Ej9NuIefM4sy2Hj8OVvwdQY8xlootU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477812496466:android:36e42ba8ca26fd6a",
+        "android_client_info": {
+          "package_name": "com.example.mts_rodrigues.projetocartolada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477812496466-63ivd8nldniljmhbsctogg58h0mfqjod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mts_rodrigues.projetocartolada",
+            "certificate_hash": "bc6fe93aea581e826350ef92578b15e75c76ce25"
+          }
+        },
+        {
+          "client_id": "477812496466-0a0uopkc46ff9hgi6pc7n9kcbvj9gnma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mts_rodrigues.projetocartolada",
+            "certificate_hash": "537aea827f3eedc554c084822948e7e8baccc777"
+          }
+        },
+        {
+          "client_id": "477812496466-7tone4ntmkhdpr276qpon3hb5k7bkt3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9Ej9NuIefM4sy2Hj8OVvwdQY8xlootU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477812496466-7tone4ntmkhdpr276qpon3hb5k7bkt3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477812496466:android:22175bd281d81501",
+        "android_client_info": {
+          "package_name": "com.example.rodri.mibuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477812496466-0n16j5setefd7kcgf3ktl132uhidf70j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rodri.mibuy",
+            "certificate_hash": "55e489d40b7801c09f72b9c1b4850b9dc30ab7d2"
+          }
+        },
+        {
+          "client_id": "477812496466-7tone4ntmkhdpr276qpon3hb5k7bkt3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9Ej9NuIefM4sy2Hj8OVvwdQY8xlootU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477812496466-7tone4ntmkhdpr276qpon3hb5k7bkt3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
