@@ -89,8 +89,6 @@ public class MainActivity extends AppCompatActivity {
 
             final String token = SharedPrefManager.getInstance(getApplicationContext()).getDeviceToken();
 
-            Toast.makeText(mContext, token, Toast.LENGTH_SHORT).show();
-
             autenticacao = FirebaseAuth.getInstance();
             autenticacao.signInWithEmailAndPassword(email, pass).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                 @Override
